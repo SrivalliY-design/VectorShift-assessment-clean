@@ -5,6 +5,9 @@
 This project is a technical assessment implementation that recreates core functionalities of VectorShift's main application. The focus was on building a node-based workflow builder with features like node abstraction, dynamic styling, and backend integration for pipeline validation. The implementation showcases modern web development practices and attention to user experience.
 
 
+Repo Link: https://github.com/SrivalliY-design/VectorShift-assessment-clean.git
+
+
 ### Frontend Setup
 
 1. **Clone and Install**
